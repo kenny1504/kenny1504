@@ -10,7 +10,7 @@
 
 <code><a href="https://www.linkedin.com/in/kenny-saenz/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 <code><a href="https://www.instagram.com/kenny__saenz/" title="Instagram Profile"><img width="22" src="images/instagram.svg" > Instagram</a></code>
-<code><a href="[https://www.instagram.com/kenny__saenz/](https://stackoverflow.com/users/12375028/kenny-sa%c3%a8nz)" title="Instagram Profile"><img width="22" src="images/instagram.svg" > stackoverflow</a></code>
+<code><a href="[https://www.instagram.com/kenny__saenz/](https://stackoverflow.com/users/12375028/kenny-sa%c3%a8nz)" title="Instagram Profile"><img width="22" src="images/stackoverflow.svg" > stackoverflow</a></code>
 <br>
 </h5>
 <br>
